@@ -1,0 +1,14 @@
+SAVE DATA INDICATOR (0 or 1)
+PLAYER NAME
++ "Nothing" item slot - This slot should always be a zero // INVENTORY SLOTS - START
++ "Nothing" item slot - This slot should always be a zero
++ Water
++ Water
++ Bone Meal
++ Bone Meal
++ Flax Seed
++ Flax Seed
++ Charcoal
++ Charcoal
++ Honey
++ Honey // INVENTORY SLOTS - END
